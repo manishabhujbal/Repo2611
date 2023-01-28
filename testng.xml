@@ -5,7 +5,7 @@
 	<test name="Banking app">
 		<parameter name="browser" value="chrome" />
 		<classes>
-			<class name="com.testLayer.LoginPageTest" />
+			<class name="stringPrograms.Start.java" />
 		</classes>
 	</test>
 </suite>
