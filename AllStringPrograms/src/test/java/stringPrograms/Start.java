@@ -11,7 +11,7 @@ public class Start {
 		char c=str.charAt(i);
 		System.out.print(c);
 	}
-		
+		//Hellllloooo
 	}
 
 }
