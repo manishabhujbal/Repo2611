@@ -22,6 +22,8 @@ public class Duplicates {
 				m.put(key, 1);
 			}
 		}
+//		System.out.println(m);
+		m.entrySet().removeIf(x->x.getValue()!=1);
 		System.out.println(m);
 		
 
