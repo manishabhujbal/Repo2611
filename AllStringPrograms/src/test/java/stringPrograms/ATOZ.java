@@ -1,6 +1,6 @@
 package stringPrograms;
 
-public class ATOZ {
+public class ATOZ {//
 	
 	public static void main(String[] args) {
 		for(char i='A';i<='Z';i++)
