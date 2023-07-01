@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 //program for string reverse
 public class Start {
-//Hiiiiiiiiiiiiiiiiiiiii	
+//Hiiiiiiiiiiiiiiiiiiiii	ppppp
 	public static void main(String[] args) {
 		
 	char d;
