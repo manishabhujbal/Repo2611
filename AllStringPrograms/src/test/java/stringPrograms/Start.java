@@ -1,7 +1,7 @@
 package stringPrograms;
 
 public class Start {
-	//checkk 1
+	// removed checkk 1
 	public static void main(String[] args) {
 		
 	
